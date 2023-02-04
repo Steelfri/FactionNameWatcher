@@ -1,0 +1,7 @@
+name: FactionNameWatcher
+version: '1'
+main: fr.steelfri.factionnamewatcher.FactionNameChecker
+api-version: 1.19
+depend: [Factions]
+authors: [Steelfri]
+description: Watch when player create faction and denies any name not matching with the config.

@@ -1,0 +1,7 @@
+#Faction Name Checker by Steelfri
+#Enter the allowed name in exact capitalization.
+#If u need help contact me on discord Steelfri#0031
+
+allowed-names:
+  - test
+  - allowedname
